@@ -1,7 +1,7 @@
-## Interface: 30400
-## Title: Retail UI|c000DA326 3.0.3|r
+## Interface: 11503
+## Title: Retail UI|c000DA326 3.0.4|r
 ## Author: sebast_ian
-## Version: 3.0.3
+## Version: 3.0.4
 ## Notes: World of Warcraft Retail's UI, recreated for Classic. Includes additional features.
 ## SavedVariables: RUI_SavedVars
 
